@@ -1,5 +1,5 @@
-Booky My Show
-Booky My Show is a comprehensive online platform for booking tickets to movies, events, concerts, and more. With a user-friendly interface and seamless booking experience, Booky My Show aims to revolutionize the way users discover and attend entertainment options.
+Book My Show:--
+Book My Show is a comprehensive online platform for booking tickets to movies, events, concerts, and more. With a user-friendly interface and seamless booking experience, Booky My Show aims to revolutionize the way users discover and attend entertainment options.
 
 Features:
 Movie Booking: Browse and book tickets for the latest movies in theaters.
